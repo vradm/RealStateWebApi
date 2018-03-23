@@ -1,0 +1,202 @@
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\RealStateWebApi.dll.config
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\RealStateWebApi.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\RealStateWebApi.pdb
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\EntityFramework.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Http.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\WebGrease.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\EntityFramework.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Http.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\obj\Release\RealStateWebApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\obj\Release\RealStateWebApi.csproj.CopyComplete
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\obj\Release\RealStateWebApi.dll
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\obj\Release\RealStateWebApi.pdb
+C:\Users\HP\Desktop\RealStateWebApi\RealStateWebApi\obj\Release\RealStateWebApi.csprojResolveAssemblyReference.cache
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\ApplicationInsights.config
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\RealStateWebApi.dll.config
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\RealStateWebApi.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\RealStateWebApi.pdb
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\csc.exe
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\csc.exe.config
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\csc.rsp
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\csi.exe
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\csi.exe.config
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\csi.rsp
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.AppContext.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Console.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Diagnostics.Process.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.IO.Compression.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Claims.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Threading.Thread.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.ValueTuple.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\vbc.exe
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\vbc.exe.config
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\vbc.rsp
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\VBCSCompiler.exe
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Antlr3.Runtime.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\EntityFramework.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\EntityFramework.SqlServer.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.Web.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Newtonsoft.Json.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Net.Http.Formatting.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Helpers.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Http.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Http.WebHost.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Mvc.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Optimization.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Razor.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.Razor.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\WebGrease.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\EntityFramework.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\EntityFramework.SqlServer.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Newtonsoft.Json.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Net.Http.Formatting.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Helpers.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Http.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Http.WebHost.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Mvc.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Optimization.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.Razor.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\System.Web.WebPages.Razor.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Antlr3.Runtime.pdb
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\Microsoft.AI.Web.xml
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\obj\Release\RealStateWebApi.csproj.CoreCompileInputs.cache
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\obj\Release\RealStateWebApi.csproj.CopyComplete
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\obj\Release\RealStateWebApi.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\obj\Release\RealStateWebApi.pdb
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\vk\Real State Project\RealStateWebApi\RealStateWebApi\RealStateWebApi\obj\Release\RealStateWebApi.csprojResolveAssemblyReference.cache
